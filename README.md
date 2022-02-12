@@ -18,20 +18,16 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   
 ## 🗂️ Highlight Projects
 
-* <a href="https://github.com/aryanbhalla2004/Mittflix">
+<a href="https://github.com/aryanbhalla2004/Mittflix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbhalla2004&repo=Mittflix&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+<a href="https://github.com/aryanbhalla2004/Mittflix">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbhalla2004&repo=Mittflix&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
 
-
-* <a href="https://github.com/aryanbhalla2004/Mittflix">
+<a href="https://github.com/aryanbhalla2004/Mittflix">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbhalla2004&repo=Mittflix&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
-
-* <a href="https://github.com/aryanbhalla2004/Mittflix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbhalla2004&repo=Mittflix&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
-
-* <a href="https://github.com/aryanbhalla2004/Mittflix">
+</a><a href="https://github.com/aryanbhalla2004/Mittflix">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbhalla2004&repo=Mittflix&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
 </div>
