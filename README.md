@@ -81,6 +81,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c4de7c8c24e2c2f505cc430d5f27154c598a0422bd9513eec8b78b3204cb890c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c732d506f73746d616e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d506f73746d616e266c6f676f436f6c6f723d776869746526636f6c6f723d344142313937"><img src="https://camo.githubusercontent.com/c4de7c8c24e2c2f505cc430d5f27154c598a0422bd9513eec8b78b3204cb890c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c732d506f73746d616e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d506f73746d616e266c6f676f436f6c6f723d776869746526636f6c6f723d344142313937" alt="" data-canonical-src="https://img.shields.io/badge/Tools-Postman-informational?style=flat&amp;logo=Postman&amp;logoColor=white&amp;color=4AB197" style="max-width: 100%;"></a>
 
-## Github Stats
+## 📈 Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanbhalla2004&theme=vue-dark&show_icons=true)
 
