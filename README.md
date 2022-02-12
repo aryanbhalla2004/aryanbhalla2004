@@ -1,13 +1,25 @@
 <p align="center"><img src="https://cdn1.iconfinder.com/data/icons/data-science-1-1/512/20-512.png" width="200"/><p>
-<h1 align="center">Hello I'm Aryan Bhalla</h1>
+<h1 align="center">Hi I'm Aryan Bhalla</h1>
+<div align="center">
+  <a target="_blank" rel="noopener noreferrer" href="">
+  <img alt="" src="https://img.shields.io/badge/Social-Twitter-informational?style=flat&amp;logo=Twitter&amp;logoColor=white&amp;color=4AB197" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer" href="">
+  <img alt="" src="https://img.shields.io/badge/Social-Linkedin-informational?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;color=4AB197" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer" href="">
+  <img alt="" src="https://img.shields.io/badge/My-Website-informational?style=flat&amp;logo=me&amp;logoColor=white&amp;color=4AB197" style="max-width: 100%;">
+  </a>
+</div>
+
 ## 🔭 Latest Projects
 *  MittFlix
 *  Match Game
 *  Budget Calculator
 *  Activity Recoder
-<br>
+
+
 ## 💼 Skills
-<br>
 <a target="_blank" rel="noopener noreferrer" href="">
 <img alt="" src="https://img.shields.io/badge/Code-Electron-informational?style=flat&amp;logo=Electron&amp;logoColor=white&amp;color=4AB197" style="max-width: 100%;">
 </a>
