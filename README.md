@@ -11,7 +11,7 @@
   <img alt="" src="https://img.shields.io/badge/My-Website-informational?style=flat&amp;logo=me&amp;logoColor=white&amp;color=4AB197" style="max-width: 100%;">
   </a>
 </div>
-
+I am a Full stack developer, I like putting my creativing thinking in my passion to invent new ideas/softwares. If you have any question feel free to contact me at: aryanbhalla66@gmail.com
 ## 🔭 Latest Projects
 *  MittFlix
 *  Match Game
