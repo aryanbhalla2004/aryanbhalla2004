@@ -1,4 +1,4 @@
-<div style="background-img: url('https://d1uxiwmpc9j4yg.cloudfront.net/inverita/images/uploads/technologies/slider-js.png'); padding: 20px;">
+<div style="background-image: url('https://d1uxiwmpc9j4yg.cloudfront.net/inverita/images/uploads/technologies/slider-js.png'); padding: 20px;">
    <div style="border: 1px solid red;">
      <h1>Aryan Bhalla</h1>
   </div>
