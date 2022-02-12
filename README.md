@@ -73,5 +73,5 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanbhalla2004&theme=vue-dark&show_icons=true)
-
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=5679285&theme=dark" height="250">
 
