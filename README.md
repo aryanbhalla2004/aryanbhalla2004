@@ -1,5 +1,5 @@
-<p align="center"><img src="https://cdn1.iconfinder.com/data/icons/data-science-1-1/512/20-512.png" width="200"/><p>
-<h1 align="center">Hi I'm Aryan Bhalla <img
+<p align="center"><img src="https://res.cloudinary.com/dgjfoz5o1/image/upload/v1644705962/Untitled-1_edyyyz.png"/><p>
+<h1 align="center">Welcome to my Github <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 <div align="center">
   <a target="_blank" rel="noopener noreferrer" href="">
