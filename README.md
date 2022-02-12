@@ -1,10 +1,5 @@
 ### Hi there 👋
-
-<!--
-**aryanbhalla2004/aryanbhalla2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<img src="https://innovadesignhub.com/images/vector5.png">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
