@@ -24,4 +24,4 @@
 
 
 <a target="_blank" rel="noopener noreferrer" href="">
-<img src="https://camo.githubusercontent.com/201eab0c16231af1724c70578727d4180c5f0d0597d9576d4cfef374bc78d156/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d2e4e45542d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d2e6e6574266c6f676f436f6c6f723d776869746526636f6c6f723d344142313937" alt="" data-canonical-src="https://img.shields.io/badge/Code-HTML-informational?style=flat&amp;logo=.net&amp;logoColor=white&amp;color=4AB197" style="max-width: 100%;"></a>
+<img src="" alt="" data-canonical-src="https://img.shields.io/badge/Code-HTML-informational?style=flat&amp;logo=.net&amp;logoColor=white&amp;color=4AB197" style="max-width: 100%;"></a>
