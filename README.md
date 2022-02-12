@@ -1,5 +1,6 @@
 <p align="center"><img src="https://cdn1.iconfinder.com/data/icons/data-science-1-1/512/20-512.png" width="200"/><p>
-<h1 align="center">Hi I'm Aryan Bhalla</h1>
+<h1 align="center">Hi I'm Aryan Bhalla <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 <div align="center">
   <a target="_blank" rel="noopener noreferrer" href="">
   <img alt="" src="https://img.shields.io/badge/Social-Twitter-informational?style=flat&amp;logo=Twitter&amp;logoColor=white&amp;color=4AB197" style="max-width: 100%;">
@@ -12,9 +13,7 @@
   </a>
 </div>
 <p align="center">
-<b><i>
-I'm a Full-Stack Developer that appreciates designing new concepts and technologies using my creative mind. Currently in high school and pursuing a post-secondary software developer credential at a community college. If you have any questions, please contact me at aryanbhalla66@gmail.com.
-</i></b>
+<b>I'm a Full-Stack Developer that appreciates designing new concepts and technologies using my creative mind. Currently in high school and pursuing a post-secondary software developer credential at a community college. If you have any questions, please contact me at <i>aryanbhalla66@gmail.com.</i></b>
 </p>
   
 ## 🔭 Latest Projects
@@ -71,4 +70,8 @@ I'm a Full-Stack Developer that appreciates designing new concepts and technolog
 <img alt="" src="https://img.shields.io/badge/Tools-Git-informational?style=flat&amp;logo=Git&amp;logoColor=white&amp;color=4AB197" style="max-width: 100%;">
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c4de7c8c24e2c2f505cc430d5f27154c598a0422bd9513eec8b78b3204cb890c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c732d506f73746d616e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d506f73746d616e266c6f676f436f6c6f723d776869746526636f6c6f723d344142313937"><img src="https://camo.githubusercontent.com/c4de7c8c24e2c2f505cc430d5f27154c598a0422bd9513eec8b78b3204cb890c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c732d506f73746d616e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d506f73746d616e266c6f676f436f6c6f723d776869746526636f6c6f723d344142313937" alt="" data-canonical-src="https://img.shields.io/badge/Tools-Postman-informational?style=flat&amp;logo=Postman&amp;logoColor=white&amp;color=4AB197" style="max-width: 100%;"></a>
+
+## Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanbhalla2004&theme=vue-dark&show_icons=true)
+
 
