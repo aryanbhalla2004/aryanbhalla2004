@@ -1,17 +1,13 @@
-<div style="background-image: url("https://d1uxiwmpc9j4yg.cloudfront.net/inverita/images/uploads/technologies/slider-js.png"); padding: 20px;">
-   <div style="border: 1px solid red;">
-     <h1>Aryan Bhalla</h1>
-  </div>
-</div>  
-### Hello World 👋
-
-
+<p align="center"><img src="https://cdn1.iconfinder.com/data/icons/data-science-1-1/512/20-512.png" width="200"/><p>
+<h1 align="center">Hello I'm Aryan Bhalla</h1>
 ## 🔭 Latest Projects
 *  MittFlix
 *  Match Game
 *  Budget Calculator
 *  Activity Recoder
+<br>
 ## 💼 Skills
+<br>
 <a target="_blank" rel="noopener noreferrer" href="">
 <img alt="" src="https://img.shields.io/badge/Code-Electron-informational?style=flat&amp;logo=Electron&amp;logoColor=white&amp;color=4AB197" style="max-width: 100%;">
 </a>
