@@ -12,7 +12,9 @@
   </a>
 </div>
 <p align="center">
-I am a Full stack developer, I like putting my creativing thinking in my passion to invent new ideas/softwares. If you have any question feel free to contact me <b><i>aryanbhalla66@gmail.com</i></b>
+<b><i>
+I'm a Full-Stack Developer that appreciates designing new concepts and technologies using my creative mind. Currently in high school and pursuing a post-secondary software developer credential at a community college. If you have any questions, please contact me at aryanbhalla66@gmail.com.
+</i></b>
 </p>
   
 ## 🔭 Latest Projects
