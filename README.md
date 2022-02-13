@@ -13,7 +13,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   </a>
 </div>
 <p align="center">
-<b>I'm a Full-Stack Developer that appreciates designing new concepts and technologies using my creative mind. Currently in high school and pursuing a post-secondary software developer credential at a community college. If you have any questions, please contact me at <i>aryanbhalla66@gmail.com.</i></b>
+<b>I'm a Full-Stack Developer that appreciates designing new concepts and technologies using my creative mind. Currently in high school and pursuing a post-secondary software developer credential at Manitoba Institute of Trades and Technology. If you have any questions, please contact me at <i>aryanbhalla66@gmail.com.</i></b>
 </p>
   
 ## 🗂️ Highlight Projects
