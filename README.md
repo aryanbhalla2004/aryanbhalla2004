@@ -1,4 +1,4 @@
-<p align="center"><img src="https://res.cloudinary.com/dgjfoz5o1/image/upload/v1644705962/Untitled-1_edyyyz.png"/><p>
+<p align="center"><img src="https://res.cloudinary.com/dgjfoz5o1/image/upload/v1644849952/Untitled-1_pedaaq.png"/><p>
 <h1 align="center">Welcome to my Github <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 <div align="center">
