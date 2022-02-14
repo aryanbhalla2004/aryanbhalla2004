@@ -16,7 +16,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <b>I'm a Full-Stack Developer that appreciates designing new concepts and technologies using my creative mind. Currently in high school and pursuing a post-secondary software developer credential at Manitoba Institute of Trades and Technology. If you have any questions, please contact me at <i>aryanbhalla66@gmail.com.</i></b>
 </p>
   
-## 🗂️ Highlight Projects
+<!-- ## 🗂️ Highlight Projects
 
 <a href="https://github.com/aryanbhalla2004/Mittflix">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbhalla2004&repo=Mittflix&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
@@ -31,7 +31,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbhalla2004&repo=Mittflix&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
 </div>
-
+ -->
 
 ## 💼 Skills
 <a target="_blank" rel="noopener noreferrer" href="">
